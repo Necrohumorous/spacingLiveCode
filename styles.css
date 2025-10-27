@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #c44b3b;
 }
 
 .number {
@@ -8,4 +8,7 @@ body {
   text-align: center;
   border-radius: 10px;
   font-weight: bold;
+  margin: 12px;
+  padding: 28px;
+  border: cornsilk 6px solid;
 }
