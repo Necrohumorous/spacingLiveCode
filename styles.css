@@ -1,21 +1,21 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #0a7aa7;
+  background-color: #d6d6d6;
 }
 
 .number {
-  background-color: rgb(69, 197, 240);
+  background-color: lightskyblue;
   text-align: center;
   border-radius: 10px;
   font-weight: bold;
   /* margin: 12px; */
   padding: 28px;
-  border: gold 6px solid;
+  border: black 6px solid;
 }
 
 .myContainer {
   display: grid;
-  grid-template-columns: 10% 20% 30% 40%;
+  grid-template-columns: 10% 10% 10%;
   grid-template-rows: 10% 20% 30% 40%;
   grid-gap: 10px;
 }
